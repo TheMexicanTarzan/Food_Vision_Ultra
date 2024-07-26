@@ -1,7 +1,5 @@
 # Food Vision Ultra
 
-![Food Vision Ultra](https://via.placeholder.com/800x400?text=Food+Vision+Ultra)
-
 ## Overview
 
 Food Vision Ultra is an advanced Convolutional Neural Network (CNN) model designed to classify food images from the popular "Food 101" dataset. This project aims to surpass the performance of two prestigious models from ETH Zurich and the University of Massachusetts, while using less data and fewer iterations.
